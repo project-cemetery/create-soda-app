@@ -1,0 +1,13 @@
+node_modules
+.travis.yml
+LICENSE
+README.md
+tslint.json
+*.log
+.gitignore
+.git
+**/__tests__
+jest.config.js
+coverage
+out
+build
