@@ -1,0 +1,9 @@
+{
+    "name": "before-i-die",
+    "script": "./out/index.js",
+    "instances": "max",
+    "exec_mode": "cluster",
+    "env_prod": {
+        "NODE_ENV": "production"	
+    }
+}
