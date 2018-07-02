@@ -34,7 +34,7 @@ After running `create-soda-app`, you're good to go!
 Install it once globally:
 
 ```sh
-yarn add global create-next-app
+yarn add global create-soda-app
 ```
 
 or
