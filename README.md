@@ -10,9 +10,9 @@ If you run into any issues or have feedback, please [file an issue](https://gith
 ## Overview
 
 ```sh
-npm install -g create-next-app
+npm install -g create-soda-app
 
-create-next-app my-app
+create-soda-app my-app
 cd my-app/
 npm run dev
 ```
