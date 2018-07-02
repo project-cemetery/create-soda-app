@@ -1,12 +1,9 @@
 # Create Soda App
 
-The easiest way to create a [React](https://facebook.github.io/react) app with server-side rendering thanks to [Next.js](https://github.com/zeit/next.js)
+The easiest way to create a Soda app
 
-[![Mentioned in Awesome Next JS](https://awesome.re/mentioned-badge.svg)](https://github.com/unicodeveloper/awesome-nextjs)
 
 - [Getting Started](#getting-started) — How to create an app
-- [User Guide](https://github.com/segmentio/create-next-app/blob/master/lib/templates/default/README.md) —  How to develop apps started with Create Next App
-- [Starting from Examples](#starting-from-examples) — How to create an app from a Next.js example
 
 If you run into any issues or have feedback, please [file an issue](https://github.com/segmentio/create-next-app/issues/new)
 
