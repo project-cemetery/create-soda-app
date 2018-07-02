@@ -22,8 +22,8 @@ When you're ready for production, run `npm run build` then `npm run prod`.
 
 ### Start Coding Now
 
-You **don't** need to install or setup Webpack or Babel.
-They come packaged with `next`, so you can just start coding.
+You **don't** need to setup Typescript and Babel.
+They come delivered with `soda`, so you can just start coding.
 
 After running `create-soda-app`, you're good to go!
 
