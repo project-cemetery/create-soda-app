@@ -45,8 +45,6 @@ npm install -g create-soda-app
 
 **You’ll need to have Node >= 6 on your machine**. You can use [nvm](https://github.com/creationix/nvm#usage) to easily switch Node versions between different projects.
 
-**You don't need to use Node as your primary backend**. The Node installation is only required for Create Next App and running the Next.js server in development/production.
-
 ### Creating an App
 
 To create a new app, run:

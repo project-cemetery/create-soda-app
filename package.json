@@ -1,7 +1,7 @@
 {
   "name": "create-soda-app",
   "description": "Create Soda apps in one command",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "index.js",
   "license": "MIT",
   "bin": {
