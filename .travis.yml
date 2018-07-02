@@ -14,7 +14,7 @@ deploy:
   skip_cleanup: true
   on:
     tags: true
-    repo: solid-soda/create-soda-app
+    repo: igorkamyshev/create-soda-app
   api_key:
     secure: b3VnqFL1SGdkVlgjp1SZIHUdeK6c4Nz+iqcuO8yBooA5mS+4MyyKBBbcMv+4JPmUMEjLWRgykDJ38Srrb650nrmIxUI1NUH3OqZDqAxsqFTH24KG2LtC0N4jv0TOYT+hy0YquKeSS9234idU2oN1vb5/JVqpVJ+AUkh2zvldcwfJ0XGoISjNzKHgNsoaJccqM1QDh9yZc8yl8vTf+ZThkh97m95kauu+v6DxuKjRNk7RuD/MFsYOM0J5I+b6ElYlMKF0EqAx7uQiBdjbRXlhDcosS273QBKKRu2OERl2g8yHO6kwfEEch01wZKu5fg+hdcljWT7IZm7IHHmYCXQSQcZK5KTIpJ9yHoXfF7wqy6JaBF3C87MdD/F4zvOCdW2kqvXZnDjyMaj4Ow+WMFuEJEQryBnMpgxctEYuXri7zeNjbev2pQm1L8J8lvCkE5Z4DuKSz/c08qxb/Hv6akvbL6oji79SeqXuV035FFEFSnAXqYGI5xLjmj2i6hHqgC9VxsPGoaKHu8Q2IkN2x6ma5V2jAKrU5L8jAbfOvSAFKQnhxYDfxcpvy90HvYXiI5enEoZO6M79seOw3Yo/Coq3W+D0y1NKP7iGDslL8Ujn+CdyzS8i9bJmuF93tmFe3Tyvm9Y6OF2Xgm+ZCNY2lEwF7t/S5ucLtG6wc1K2jMg6zLA=
->>>>>>> Init project
+
