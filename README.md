@@ -42,7 +42,7 @@ These great books can help a lot if you decided to build a Soda app:
 
 - [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
-### Start Coding Now
+## Start Coding Now
 
 Open [http://localhost:8080](http://localhost:8080) to view your running app.
 When you're ready for production, run `npm run build` then `npm run prod`.
@@ -52,15 +52,15 @@ They come delivered with `soda`, so you can just start coding.
 
 After running `create-soda-app`, you're good to go!
 
-### Templates
+## Templates
 
 This package provides usefull templates to start building a Soda app.
 
-#### default
+### default
 
 Basic template with preconfigured TypeScript build, docker container and convinient developer enviroment.
 
-#### other templates
+### other templates
 
 coming soon
 
