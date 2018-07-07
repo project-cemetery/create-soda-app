@@ -2,8 +2,8 @@
 
 The easiest way to create a Soda app
 
-- [Getting Started](#getting-started) — How to create an app
 - [Preface](#preface) — A brief intro
+- [Getting Started](#getting-started) — How to create an app
 
 If you run into any issues or have feedback, please [file an issue](https://github.com/segmentio/create-next-app/issues/new)
 
