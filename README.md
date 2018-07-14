@@ -76,7 +76,7 @@ It will create a directory called `my-app` inside the current folder.
 Execute `npm run dev` and open [http://localhost:8080](http://localhost:8080) to view your running app.
 When you're ready for production, run `npm run build` then `npm run prod`.
 
-You **don't** need to setup Typescript and Babel.
+You **don't** need to setup TypesCript and Babel.
 They come delivered with `soda`, so you can just start coding.
 
 After running `create-soda-app`, you're good to go!
