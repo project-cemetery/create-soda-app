@@ -42,7 +42,7 @@
     "lib": "lib"
   },
   "devDependencies": {
-    "@solid-soda/eslint-config": "^2.1.2",
+    "@solid-soda/eslint-config": "^2.1.4",
     "eslint": "^5.1.0"
   },
   "scripts": {

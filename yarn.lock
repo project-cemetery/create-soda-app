@@ -2,9 +2,9 @@
 # yarn lockfile v1
 
 
-"@solid-soda/eslint-config@^2.1.2":
-  version "2.1.2"
-  resolved "https://registry.yarnpkg.com/@solid-soda/eslint-config/-/eslint-config-2.1.2.tgz#f6170e7ccef9869db4f26b7d4192c3e6336a5af4"
+"@solid-soda/eslint-config@^2.1.4":
+  version "2.1.4"
+  resolved "https://registry.yarnpkg.com/@solid-soda/eslint-config/-/eslint-config-2.1.4.tgz#a2bbf0ceee385f2d934f7a87df6f94c5e3ce10bc"
   dependencies:
     eslint-restricted-globals "^0.1.1"
     object.assign "^4.1.0"
