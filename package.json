@@ -8,7 +8,7 @@
     "create-soda-app": "./bin/create-soda-app"
   },
   "engines": {
-    "node": ">=4"
+    "node": ">=6"
   },
   "repository": {
     "type": "git",

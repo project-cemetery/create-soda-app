@@ -4,10 +4,11 @@ The easiest way to create a Soda app
 
 - [Preface](#preface) — A brief intro
 - [Getting Started](#getting-started) — How to create an app
+- [Templates](#tempaltes) — List of available templates
 
 If you run into any issues or have feedback, please [file an issue](https://github.com/segmentio/create-next-app/issues/new)
 
-## Overview
+## TL;DR
 
 ```sh
 npm install -g create-soda-app
@@ -43,28 +44,6 @@ These great books can help a lot if you decided to build a Soda app:
 
 - [Code Complete: A Practical Handbook of Software Construction](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670)
 
-## Start Coding Now
-
-Open [http://localhost:8080](http://localhost:8080) to view your running app.
-When you're ready for production, run `npm run build` then `npm run prod`.
-
-You **don't** need to setup Typescript and Babel.
-They come delivered with `soda`, so you can just start coding.
-
-After running `create-soda-app`, you're good to go!
-
-## Templates
-
-This package provides usefull templates to start building a Soda app.
-
-### default
-
-Basic template with preconfigured TypeScript build, docker container and convinient developer enviroment.
-
-### other templates
-
-coming soon
-
 ## Getting Started
 
 ### Installation
@@ -93,5 +72,27 @@ cd my-app
 ```
 
 It will create a directory called `my-app` inside the current folder.
+
+Execute `npm run dev` and open [http://localhost:8080](http://localhost:8080) to view your running app.
+When you're ready for production, run `npm run build` then `npm run prod`.
+
+You **don't** need to setup TypesCript and Babel.
+They come delivered with `soda`, so you can just start coding.
+
+After running `create-soda-app`, you're good to go!
+
+## Templates
+
+This package provides usefull templates to start building a Soda app.
+
+### default
+
+Basic template with preconfigured TypeScript build, docker container and convinient developer enviroment.
+
+### other templates
+
+... coming soon
+
+---
 
 Questions? Feedback? [Please let us know](https://github.com/solid-soda/create-soda-app/issues/new)
