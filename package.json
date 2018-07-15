@@ -42,10 +42,12 @@
     "lib": "lib"
   },
   "devDependencies": {
-    "eslint": "^5.0.1"
+    "@solid-soda/eslint-config": "^2.1.2",
+    "eslint": "^5.1.0"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint . --fix"
   },
   "author": "Igor Kamyshev <igor@kamyshev.me>"
 }
