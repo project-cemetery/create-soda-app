@@ -51,7 +51,7 @@ These great books can help a lot if you decided to build a Soda app:
 Install it once globally:
 
 ```sh
-yarn add global create-soda-app
+yarn global add create-soda-app
 ```
 
 or
