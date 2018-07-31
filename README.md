@@ -1,3 +1,5 @@
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/a38f8d86253c4660a59100f6459141b8)](https://www.codacy.com/project/solid-soda/create-soda-app/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=solid-soda/create-soda-app&amp;utm_campaign=Badge_Grade_Dashboard)
+
 # Create Soda App
 
 The easiest way to create a Soda app
