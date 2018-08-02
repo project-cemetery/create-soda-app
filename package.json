@@ -18,7 +18,7 @@
     "url": "https://github.com/solid-soda/create-soda-app/issues"
   },
   "dependencies": {
-    "ansi-escapes": "^2.0.0",
+    "ansi-escapes": "^3.1.0",
     "chalk": "^2.4.1",
     "commander": "^2.9.0",
     "cross-spawn": "^6.0.5",
