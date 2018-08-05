@@ -3,8 +3,8 @@
 
 
 "@solid-soda/eslint-config@^2.1.4":
-  version "2.1.4"
-  resolved "https://registry.yarnpkg.com/@solid-soda/eslint-config/-/eslint-config-2.1.4.tgz#a2bbf0ceee385f2d934f7a87df6f94c5e3ce10bc"
+  version "2.1.5"
+  resolved "https://registry.yarnpkg.com/@solid-soda/eslint-config/-/eslint-config-2.1.5.tgz#1022b904e6097268fc09ac6ae618e2207b1e34e0"
   dependencies:
     eslint-restricted-globals "^0.1.1"
     object.assign "^4.1.0"
