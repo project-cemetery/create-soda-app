@@ -1,31 +1,31 @@
 import * as express from 'express'
 
 export default class Server {
-    public static start = (port: number): Server => {
-        const server = new Server()
-        server.app.listen(port)
+  public static start = (port: number): Server => {
+    const server = new Server()
+    server.app.listen(port)
 
-        return server
-    }
+    return server
+  }
 
-    private app: express.Application
+  private app: express.Application
 
-    constructor() {
-        this.app = express()
+  constructor() {
+    this.app = express()
 
-        this.config()
-        this.router()
-    }
+    this.config()
+    this.router()
+  }
 
-    private config() {
-        // config
-    }
+  private config() {
+    // config
+  }
 
-    private router() {
-        const router = express.Router()
+  private router() {
+    const router = express.Router()
 
-        router.get('/', (_, res) => res.send('Hello!'))
+    router.get('/', (_, res) => res.send('Hello!'))
 
-        this.app.use(router)
-    }
+    this.app.use(router)
+  }
 }
