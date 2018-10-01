@@ -1,13 +1,6 @@
 import * as express from 'express'
 
 export default class Server {
-  public static start = (port: number): Server => {
-    const server = new Server()
-    server.app.listen(port)
-
-    return server
-  }
-
   private app: express.Application
 
   constructor() {
@@ -15,6 +8,12 @@ export default class Server {
 
     this.config()
     this.router()
+  }
+  public static start = (port: number): Server => {
+    const server = new Server()
+    server.app.listen(port)
+
+    return server
   }
 
   private config() {
