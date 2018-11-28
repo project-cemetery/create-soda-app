@@ -4,13 +4,12 @@
         "target": "es6",
         "module": "commonjs",
         "sourceMap": false,
-        "rootDir": "src",
         "emitDecoratorMetadata": true,
         "experimentalDecorators": true,
-        "baseUrl": ".",
-        "outDir": "build",
+        "outDir": "out",
+        "baseUrl": "./src",
         "paths": {
-            "@app/*": [ "./src/*" ]
+            "@app/*": [ "./*" ]
         }
     },
     "include": [

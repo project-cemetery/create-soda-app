@@ -1,4 +1,4 @@
-FROM keymetrics/pm2:latest
+FROM keymetrics/pm2:10-alpine
 
 RUN echo -e 'http://dl-cdn.alpinelinux.org/alpine/edge/main\nhttp://dl-cdn.alpinelinux.org/alpine/edge/community\nhttp://dl-cdn.alpinelinux.org/alpine/edge/testing' > /etc/apk/repositories
 RUN apk add --no-cache yarn
