@@ -11,11 +11,11 @@ If you run into any issues or have feedback, please [file an issue](https://gith
 ## TL;DR
 
 ```sh
-npm install -g create-soda-app
+yarn global add create-soda-app
 
 create-soda-app my-app
-cd my-app/
-npm run dev
+cd my-app
+yarn dev
 ```
 
 ## Preface
@@ -76,7 +76,7 @@ It will create a directory called `my-app` inside the current folder.
 Execute `npm run dev` and open [http://localhost:8080](http://localhost:8080) to view your running app.
 When you're ready for production, run `npm run build` then `npm run prod`.
 
-You **don't** need to setup TypesCript and Babel.
+You **don't** need to setup TypeScript.
 They come delivered with `soda`, so you can just start coding.
 
 After running `create-soda-app`, you're good to go!
@@ -87,7 +87,7 @@ This package provides usefull templates to start building a Soda app.
 
 ### default
 
-Basic template with preconfigured TypeScript build, docker container and convinient developer enviroment.
+Basic template with preconfigured TypeScript build, Docker container and convinient developer enviroment.
 
 ### other templates
 
